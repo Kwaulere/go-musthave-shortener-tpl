@@ -1,0 +1,1 @@
+# go-musthave-shortener-tpl
